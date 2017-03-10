@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        .layout{
+            width:600px;
+            margin:20px auto;
+        }
+        .part1{
+            height:50px;
+            border:2px solid black;
+
+
+        }
+        .part2{
+            margin-top: 10px;
+        }
+
+        .part2-1{
+            width: 200px;
+            height: 100px;
+            border:2px solid black;
+            float: left;
+        }
+        .part2-2{
+            width: 300px;
+            height: 100px;
+            border:2px solid black;
+            float: right;
+        }
+        .part3{
+            height: 50px;
+            border:2px solid black;
+            clear:both;
+            position:relative;
+            top:10px
+        }
+        .part4{
+            margin-top: 20px;
+        }
+        .part4:after{
+            content:'';
+            clear:both;
+            display:table;
+        }
+        .part4-1{
+            float: left;
+            width: 120px;
+            height: 100px;
+            border:2px solid black;
+        }
+
+         .part4-2, .part4-3,.part4-4{
+            width: 120px;
+            height: 100px;
+            border:2px solid black;
+            margin-left: 34px;
+            float: left;
+        }
+        .part4-4{
+            float: right;
+
+        }
+        .part5{
+            height:50px;
+            border:2px solid black;
+            margin-top: 10px;
+        }
+        .part6{
+            margin-top: 10px;
+        }
+        .part6-1{
+            width: 120px;
+            height: 100px;
+            border:2px solid black;
+            float: left;
+        }
+        .part6-2{
+            float: right;
+        }
+        .part6-2-top{
+            width: 350px;
+            height: 40px;
+            border:2px solid black;
+          }
+        .part6-2-bottom{
+            width: 350px;
+            height: 40px;
+            border:2px solid black;
+            margin-top: 16px;
+        }
+    </style>
+</head>
+<body>
+<div class="layout">
+<div class="part1"></div>
+<div class="part2">
+    <div class="part2-1"></div>
+    <div class="part2-2"></div>
+</div>
+<div class="part3"></div>
+<div class="part4">
+    <div class="part4-1">1</div>
+    <div class="part4-2">2</div>
+    <div class="part4-3">3</div>
+    <div class="part4-4">4</div>
+</div>
+<div class="part5"></div>
+<div class="part6">
+    <div class="part6-1"></div>
+    <div class="part6-2">
+        <div class="part6-2-top"></div>
+        <div class="part6-2-bottom"></div>
+    </div>
+</div>
+</div>
+
+</body>
+</html>
