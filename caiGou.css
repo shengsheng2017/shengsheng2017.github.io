@@ -1,13 +1,13 @@
 
 .layout{
-	    width: 1346px;
-	    margin:0 auto;
+        width: 1346px;
+        margin:0 auto;
 }
 ul li{
-	list-style-type: none;
+    list-style-type: none;
 }
  .top-2 ul li{
-	list-style-type: none;
+    list-style-type: none;
     color: #00a0e9;
     font-weight: bold;
 }
@@ -25,10 +25,10 @@ ul li{
 
 
 .top{
-	
-	height: 40px;
-	background-color: #f4f4f4;
-	line-height: 40px
+    
+    height: 40px;
+    background-color: #f4f4f4;
+    line-height: 40px
 }
 
 .top p{
@@ -48,11 +48,11 @@ color: #fe980f;
 font-weight:bold;
 }
 .top-left{
-	
-	margin-left: 122px;
+    
+    margin-left: 122px;
 }
 .top-right{
-	    float: right;
+        float: right;
     margin-top: -53px;
            margin-right: 138px;
 }
@@ -73,7 +73,7 @@ font-weight:bold;
     overflow: hidden;
     }
 .icon1{
-	float: left;
+    float: left;
     display: inline-block;
     width: 177px;
     height: 68px;
@@ -82,7 +82,7 @@ font-weight:bold;
 
 
     .icon2{
-	float: left;
+    float: left;
     display: inline-block;
     width: 7px;
     height: 43px;
@@ -90,7 +90,7 @@ font-weight:bold;
     margin-top: 18px;
    ;}
    .icon3{
-   	vertical-align: middle;
+    vertical-align: middle;
    }
     .img1{
     	width: 100%;
@@ -99,8 +99,7 @@ font-weight:bold;
     	background-size: contain;
     }
      .img2{
-    	background: #0a62f0;
-    padding-bottom: 104px;
+    height: 1424px;background: #0a62f0;
     }
     .search{
     	       width: 429px;
@@ -128,7 +127,6 @@ font-weight:bold;
     outline: none;
     border: none;
     background: #fafafa;
-    padding: 0 10px;
     }
     .shop{
     width: 131px;
@@ -155,7 +153,7 @@ font-weight:bold;
     }
     .icon6{
    
-   width: 217px;
+    width: 217px;
     height: 79px;
     background: url(images/1.png) no-repeat -390px -247px;
     margin: auto;
@@ -184,7 +182,7 @@ font-weight:bold;
     top: 226px;
     }
  .icon9{
-      width: 218px;
+     width: 218px;
     height: 54px;
     background: url(images/1.png) no-repeat -348px -177px;
     margin: auto;
@@ -206,45 +204,27 @@ font-weight:bold;
 
 
     .All-icon{
-    position: relative;
-    margin-left: 234px;
-    text-align: center;
-    line-height: 28px;
-    color: white;
-    top: -165px;
-    height: 100px;
+    	margin-left: 234px;
+    	text-align: center;
+    	line-height: 28px;
+    	color: white;
+
     }
     .All-icon div{
     	float: left;
     margin-right: -63px;
     }
      .icon11{
-    width: 827px;
+width: 827px;
     height: 283px;
     background: url(images/1.png) no-repeat -42px -681px;
     margin: auto;
     background-size: 107%;
     position: relative;
-    top: 44px;
+    top: 234px;
     left: -16px;
-    color: rgb(71, 106, 148);
-    font-size: 14px;
     }
-     .box{
-           margin-left: 205px;
-    margin-top: 23px;
-    overflow: hidden;
-     } 
-
-
-   .box div {
-    float: left;
-    margin-left: 72px;
-
-}
-
-
-   
+  
     .icon11 ul li{
     	float: left;
     margin-left: 25px;}
@@ -275,31 +255,14 @@ font-weight:bold;
     	margin-left: -26px;
     	color: #b7c4d1;
     }
-    .icon13-1,.icon14-1{
-    	color: #0e66e5;
-    text-align: center;
-    margin-top: 133px;
-    margin-left: -39px;
-    }
-    .icon13-11,.icon14-11{
-    	font-size: 20px;
-    font-weight: bold;
-    color: #0e66e5;
-    text-align: center;
-    margin-top: 133px;
-    margin-left: -1px;
-    }
+   
     .footer{
     	height: 300px;
     	background: #dbdbdb;
     	margin-top: -26px;
         color: rgb(77, 77, 77);
         font-size: 14px;
-            }
-            .footer p{
-               position: relative;
-    left:16px;
-            }
+    	    }
    .phone{
     	    	margin-left: 26px;
     	    	margin-top: -55px;
@@ -308,10 +271,9 @@ footer-1{
     	    	position: relative;
                top: 6px;
     	   }
-  .footer>div{
+  .footer div{
     	    	float: left;
-    margin-left: 63px;
-    margin-top: 34px;
+    	    	margin-left: 77px;
    }
     dl{
     	 float: left;
@@ -329,8 +291,7 @@ footer-1{
     	 height: 3em
     	}
 dt{
-    font-weight: bold;
-	margin-left: 12px;
+	margin-left: 4px;
 }
  .icon17{
       width: 174px;
@@ -341,15 +302,15 @@ dt{
     position: relative;
     background-color: #f7fafd;
     top: 14px;
-    left: -26px;
+    left: 10px;
     }
 
     .icon18{
-      width: 157px;
-    height: 143px;
-    background: url(images/1.png) no-repeat -837px -609px;
+       width: 172px;
+    height: 169px;
+    background: url(images/1.png) no-repeat -915px -655px;
     margin: auto;
-    background-size: 645%;
+    background-size: 643%;
     position: relative;
     background-color: #f7fafd;
     top: 14px;
@@ -358,30 +319,76 @@ dt{
     .bottom p{
     	margin-left: 113px;
     	font-size:10px;
-        color: rgb(77, 77, 77);
     }
      .icon19{
-           width: 286px;
-    height: 42px;
-    background: url(images/1.png) no-repeat -477px -92px;
+          width: 385px;
+    height: 45px;
+    background: url(images/1.png) no-repeat -612px -127px;
     margin: auto;
+    background-size: 352%;
     position: relative;
     background-color: #f7fafd;
-    top: -105px;
-    left: 395px;
+    top: -82px;
+    left: 230px;
     }
-     .All-icon a{
+    .All-icon a{
         color: white;
     }
-    .tex5{
-            font-size: 24px;
-    }
-.tex6{
-            margin-top:12px 
-    }
-.tex6 a{
 
-    color: #0078ff}
-.tex7{text-decoration: none;
-
+a{
+    text-decoration:none;
 }
+    .tex5{
+        color: white;
+    text-align: center;
+    margin-top: 209px    }
+
+    .img4{
+        display: block;
+        margin:0 auto;
+    }
+
+    .middle{
+         color: white;
+    text-align: center;
+    }
+    .middle a{      color: #ae941e;
+                    display: block;
+                    width: 139px;
+                    height: 38px;
+                    border-radius: 44%;
+                    background: #f4df22;
+                    margin: 40px auto;
+                    text-align: center;
+                    line-height: 39px;
+    }
+
+    .middle-bottom{
+
+          height: 485px;
+    background: #deeaf6;
+    color: #0078ff;
+    margin-top: -21px;
+
+    }
+    .middle-bottom-1{
+        text-align: center;
+        position: relative;
+        top: 27px;
+    }
+    .middle-bottom-2{
+       float: left;
+    margin-left: 324px;
+    text-align: center;
+
+    }
+      .middle-bottom-3{
+            float: right;
+            margin-right: 322px;
+             text-align: center;
+    }
+    .img5{
+        display: block;
+        margin:0 auto;
+    }
+   

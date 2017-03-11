@@ -94,13 +94,13 @@ font-weight:bold;
    }
     .img1{
     	width: 100%;
-    	height: 379px;
-    	background:url(images/2.png) no-repeat;
-    	background-size: contain;
+    height: 379px;
+    background: url(images/2.png) no-repeat;
+    background-size: contain;
     }
      .img2{
     	background: #0a62f0;
-    padding-bottom: 104px;
+    	padding-bottom: 4px;
     }
     .search{
     	       width: 429px;
@@ -230,20 +230,61 @@ font-weight:bold;
     color: rgb(71, 106, 148);
     font-size: 14px;
     }
-     .box{
-           margin-left: 205px;
-    margin-top: 23px;
-    overflow: hidden;
-     } 
+    .tex15{
+        color: white;
+    text-align: center;
+    margin-top: 50px;    }
 
+    .img4{
+        display: block;
+        margin:0 auto;
+    }
 
-   .box div {
-    float: left;
-    margin-left: 72px;
+    .middle{
+         color: white;
+    text-align: center;
+    }
+    .middle a{      color: #ae941e;
+                    display: block;
+                    width: 139px;
+                    height: 38px;
+                    border-radius: 19px;
+                    background: #f4df22;
+                    margin: 40px auto;
+                    text-align: center;
+                    line-height: 39px;
+                    text-decoration:none;
+    }
 
-}
+    .middle-bottom{
 
+         height: 548px;
+    background: #deeaf6;
+    color: #0078ff;
+    margin-top: -21px;
 
+    }
+    .middle-bottom-1{
+       text-align: center;
+    position: relative;
+    top: 61px;
+    margin-bottom: 119px;
+    }
+    .middle-bottom-2{
+       float: left;
+    margin-left: 324px;
+    text-align: center;
+
+    }
+      .middle-bottom-3{
+            float: right;
+            margin-right: 322px;
+             text-align: center;
+    }
+    .img5{
+        display: block;
+        margin:0 auto;
+    }
    
     .icon11 ul li{
     	float: left;
@@ -382,6 +423,23 @@ dt{
 .tex6 a{
 
     color: #0078ff}
+
 .tex7{text-decoration: none;
 
 }
+.img10{
+	display:block;
+	margin:0 auto;
+}
+
+              .btn{ color: #ae941e;
+                    display: block;
+                    width: 139px;
+                    height: 38px;
+                    border-radius: 19px;
+                    background: #f4df22;
+                    margin: 40px auto;
+                    text-align: center;
+                    line-height: 39px;
+                    text-decoration:none;
+    }

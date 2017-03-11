@@ -99,8 +99,10 @@ font-weight:bold;
     	background-size: contain;
     }
      .img2{
-    	background: #0a62f0;
-    padding-bottom: 104px;
+    	height: 618px;
+        
+        background: #0a62f0;
+        padding-bottom: 4px;
     }
     .search{
     	       width: 429px;
@@ -200,7 +202,6 @@ font-weight:bold;
     margin: auto;
     background-size: 423%;
     position: relative;
-   
     top: 256px;
     }
 
@@ -218,76 +219,29 @@ font-weight:bold;
     	float: left;
     margin-right: -63px;
     }
-     .icon11{
-    width: 827px;
-    height: 283px;
-    background: url(images/1.png) no-repeat -42px -681px;
-    margin: auto;
-    background-size: 107%;
-    position: relative;
-    top: 44px;
-    left: -16px;
-    color: rgb(71, 106, 148);
-    font-size: 14px;
+    .middle{
+       padding-bottom: 27px;
+    color: #edf5ff;
+ 
     }
-     .box{
-           margin-left: 205px;
-    margin-top: 23px;
-    overflow: hidden;
-     } 
 
+    .img11{
+     position: relative;
+    margin: 0 auto;
+    display: block;
+    top: 23px;
+    margin-bottom: 34px;
+    }
 
-   .box div {
-    float: left;
-    margin-left: 72px;
-
-}
-
-
-   
-    .icon11 ul li{
-    	float: left;
-    margin-left: 25px;}
-  
-    .cf{
-    	clear:both;
+    .middle-1{
+       height: 962px;
+    background: #f8fbff;
+    width: 80%;
+    margin: 0 auto;
     }
-    .icon15{
-   width: 98px;
-    height: 52px;
-    background: url(images/1.png) no-repeat -437px -128px;
-    margin: auto;
-    background-size: 767%;
-    position: relative;
-    background-color: #f7fafd;
-    top: 89px;
-    left: -47px;
-    }
-    .tex4{
-    	margin-top: 56px
-    }
-    .tex4-1{
-    	color: #075eec;
-    font-size: 23px;
-    font-weight: bold;
-    }
-     .tex4-2{
-    	margin-left: -26px;
-    	color: #b7c4d1;
-    }
-    .icon13-1,.icon14-1{
-    	color: #0e66e5;
-    text-align: center;
-    margin-top: 133px;
-    margin-left: -39px;
-    }
-    .icon13-11,.icon14-11{
-    	font-size: 20px;
-    font-weight: bold;
-    color: #0e66e5;
-    text-align: center;
-    margin-top: 133px;
-    margin-left: -1px;
+     .img12{
+    margin: 0 auto;
+    display: block;
     }
     .footer{
     	height: 300px;
